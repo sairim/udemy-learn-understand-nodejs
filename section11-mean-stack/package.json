@@ -1,0 +1,16 @@
+{
+  "name": "section11-mean-stack",
+  "version": "1.0.0",
+  "description": "section11 mean stack exercise with a focuson angular",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.7.8",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
